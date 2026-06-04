@@ -150,7 +150,14 @@ This portal sits alongside:
 | Staff time per application | High | Near-zero post-decision |
 
 ---
+## Screenshots
 
+![Interest Form](application1.png)
+   ![Payment Integration](application2.png)
+   ![Full Application](application3.png)
+   ![Document Upload](application4.png)
+
+---
 ## About
 
 Built by **Oluwafemi Ganzallo** via **KDCS Limited** (RC 1948680), Ikeja, Lagos.  
